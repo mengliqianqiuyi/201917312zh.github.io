@@ -1,0 +1,25 @@
+body {
+	background:       url(../images/headpic.jpg) top left;
+	font-family:Verdana,Geneva,Arial,sans-serif;
+	font-size:medium;
+}
+h1,h2 {
+	color:#006400;
+	border-bottom:thin dotted #006400;
+}
+h1 {
+	font-size:220%;
+}
+h2 {
+	font-size:130%;
+	font-weight:normal;
+}
+blockquote {
+	font-style:italic;
+}
+#footer {
+  font-size: 1em;
+  text-align: center;
+  line-height: normal;
+  margin-top: 30px;
+}

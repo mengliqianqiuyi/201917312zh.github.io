@@ -1,0 +1,70 @@
+body { 
+  background-color: #F0FFF0;
+  font-family:      Georgia, "Times New Roman", Times, serif;
+  font-size:        small;
+  margin:           0px;
+}
+
+
+header.top {
+  background:       url(../images/headpic.jpg) top left;
+  margin: 10px 10px 0px 10px;
+  height:           108px;
+}
+
+
+
+div#tableContainer {
+	display: table;
+	border-spacing: 10px;
+}
+
+div#tableRow {
+	display: table-row;
+}
+
+section#poet {
+    display: table-cell;
+    width: 250px;
+    padding: 15px;
+    vertical-align: top;
+	background:       url(../images/bg8.jpg) top left;
+}
+section#main, section#blog {
+  display: table-cell;
+  background:       url(../images/bg11.png) top left;
+  font-size:        105%;
+  padding:          15px;
+  vertical-align: top;
+  
+}
+
+aside {
+  display: table-cell;
+  background:       url(../images/bg5.jpg) center;
+  font-size:        105%;
+  padding:          15px;
+  width:            320px;
+  height:           500px;
+  vertical-align: top;
+}
+
+footer {
+  background:       url(../images/headpic.jpg) top left;
+  color:            #black;
+  text-align:       center;
+  padding:          15px;
+  margin: 0px 10px 10px 10px;
+  font-size:        90%;
+}
+
+h1 {
+  font-size:        120%;
+  color:            #006400;
+}
+a:visited {
+  color:            #800000;
+  text-decoration:  none;
+  border-bottom:    thin dotted #0000CD;
+}
+

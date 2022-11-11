@@ -1,0 +1,30 @@
+body {
+  font: Verdana, Helvetica, Arial, sans-serif;
+  background-image: url("../images/headpic.jpg");
+}
+
+h1{
+  color: #006400;
+}
+
+h1 {
+  font-size: 3em;
+}
+#circle {
+  border: thin solid #006400;
+  width: 600px;
+  padding: 100px 20px 20px 20px;
+  margin-left: 20px;
+  text-align: center;
+  background-image: url("../images/headpic.jpg");
+  background-repeat: repeat-x;
+  line-height: 1;
+  float: right;
+}
+#footer {
+  font-size: 1em;
+  text-align: center;
+  line-height: normal;
+  margin-top: 30px;
+}
+
